@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "item_code": "dummy",
+        "name": "Dummy",
+        "description": "Dummy description",
+        "stack_size": 16,
+        "category": "meta"
+    },
+    {
+        "id": 2,
+        "item_code": "dummy2",
+        "name": "Dummy NO.2",
+        "description": "Dummy description no.2",
+        "stack_size": 32,
+        "category": "meta"
+    }
+]
